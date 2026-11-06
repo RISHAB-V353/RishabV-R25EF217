@@ -4,3 +4,5 @@ I am a Computer Science and Engineering student at REVA University, Bangalore. I
 
 
 **Skill:** Learning Python, C, Java, and Git.
+
+**Interest:** Exploring Artificial Intelligence, electronics, and open-source technologies.
