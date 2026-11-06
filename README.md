@@ -7,4 +7,4 @@ I am a Computer Science and Engineering student at REVA University, Bangalore. I
 
 **Interest:** Exploring Artificial Intelligence, electronics, and open-source technologies.
 
-**Goal:** Build real-world software projects, contribute to open source, and become a skilled software developer.
+**Goal:** Build real world software projects, contribute to open source, and become a skilled software developer.
