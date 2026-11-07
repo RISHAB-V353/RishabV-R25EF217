@@ -8,8 +8,3 @@ I am a Computer Science and Engineering student at REVA University, Bangalore. I
 **Interest:** Exploring Artificial Intelligence, electronics, and open-source technologies.
 
 **Goal:** Build real world software projects, contribute to open source, and become a skilled software developer.
-
-## Projects
-
-- **Portfolio Building:** Creating a personal developer portfolio using GitHub, Git, and GitHub Pages.
-- **Prompt Relay:** A browser extension that allows sending prompts to multiple AI platforms.
