@@ -13,3 +13,9 @@ I am a Computer Science and Engineering student at REVA University, Bangalore. I
 
 - **Portfolio Building:** Creating a personal developer portfolio using GitHub, Git, and GitHub Pages.
 - **Prompt Relay:** A browser extension that allows sending prompts to multiple AI platforms.
+
+## Collaboration Log
+
+- Partner: Shreyash C 
+- Work completed: Added a greet() function to the Hello World program using Live Share.
+- Learning: GitLens helps identify who last changed a particular line of code and shows the related commit history.
